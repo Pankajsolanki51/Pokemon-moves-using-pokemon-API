@@ -1,0 +1,7 @@
+select{
+        font-size: 1.5rem;
+       margin-left: 20rem;
+       color: red;
+       border: 2px solid red;
+       border-radius: 10px;
+    }
